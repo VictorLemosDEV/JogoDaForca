@@ -155,57 +155,15 @@ def Atualizar(chute):
   global tentativasRestantes
   global tentativas
   
+    
+    
+    
+    
+    
+    print("")
+    print("")
   
-
-  if tentativasRestantes == 6:
-    resultado, nAcertos = checar_resposta(chute)
-    
-    
-    
-    print("")
-    print("")
-  elif tentativasRestantes == 5:
-    
-    resultado, nAcertos = checar_resposta(chute)
-    
-    
-    print("")
-    print("")
-  elif tentativasRestantes == 4:
-    
-    resultado, nAcertos = checar_resposta(chute)
-    
-    
-    print("")
-    print("")
-  elif tentativasRestantes == 3:
-    
-    resultado, nAcertos = checar_resposta(chute)
-    
-    
-    print("")
-    print("")
-  elif tentativasRestantes == 2:
-    
-    resultado, nAcertos = checar_resposta(chute)
-    
-    
-    print("")
-    print("")
-  elif tentativasRestantes == 1:
-    
-    resultado, nAcertos = checar_resposta(chute)
-    
-    
-    print("")
-    print("")
-  elif tentativasRestantes == 0:
-    
-    resultado, nAcertos = checar_resposta(chute)
-    
-    
-    print("")
-    print("")
+  
   
 
   
